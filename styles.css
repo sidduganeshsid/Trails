@@ -1,0 +1,16 @@
+*{
+    padding: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.yr1{
+    display: flex;
+    background-color: aquamarine;
+}
+.box1::hover{
+    background-color: yellow;
+}
+.box1{
+    font-size: large;
+    color: black;
+}
